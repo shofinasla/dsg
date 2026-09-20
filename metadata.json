@@ -1,0 +1,7 @@
+{
+  "name": "Dried Seafood Global — Fresh & Frozen Fish Delivered",
+  "description": "Premium seafood, sourced directly from trusted waters around the world and delivered with care across Saudi Arabia. SFDA approved fresh and frozen fish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
